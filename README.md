@@ -38,7 +38,7 @@ Git status para ver los archivos
 
 Agrego archivos dentro del gitignore
 
-> $ B echo privada.txt > .gitignore
+> $ echo privada.txt > .gitignore
 
 Creo un archivo 1.txt
 
@@ -121,6 +121,8 @@ Por ultimo escribo el comando para ver ordenado los archivos y los subo al repos
 
 > $ git log --oneline --decorate --all --graph
 > $ git push
+
+Nombre y GitHub de algunos de mis compañeros del curso DevJump
 
                     
 Nombre        | GitHub 
